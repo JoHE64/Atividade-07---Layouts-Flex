@@ -1,0 +1,41 @@
+body {
+    background: rgb(69, 76, 210);
+}
+.yo {
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(210, 194, 69);
+}
+.flex{
+    display: flex;
+}
+.red {
+    padding: 100px;
+    margin: 10px;
+    background-color: rgb(220, 87, 87);
+}
+.yoretangulog {
+    background-color: rgb(210, 194, 69);
+    padding: 100px;
+    padding-bottom: 510px;
+    margin: 10px;
+}
+.yoretangulom {
+    background-color: rgb(210, 194, 69);
+    padding: 100px;
+    padding-bottom: 300px;
+    margin: 10px;
+}
+
+.yoretangulo2 {
+    background-color: rgb(210, 194, 69);
+    padding: 100px;
+    padding-left: 320px;
+    margin: 10px;
+}
+.yoretangulo2g {
+    background-color: rgb(210, 194, 69);
+    padding: 100px;
+    padding-left: 540px;
+    margin: 10px;
+}
